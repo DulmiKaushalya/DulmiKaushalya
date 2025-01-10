@@ -6,7 +6,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓Education **Undergraduater at SLIIT, Year 2**
+- 🎓Education **Undergraduater at SLIIT, Year 3**
 
 - 🌱 I’m currently learning **MERN Stack**
 
