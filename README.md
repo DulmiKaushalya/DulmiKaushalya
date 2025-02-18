@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C,C++,Java,MySQL,HTML,CSS,JavaScript ,MVC architecture,MERN,MONGODB,Kotlin and Data Structures and Algorithm **
+- 💬 Ask me about C,C++,Java,MySQL,HTML,CSS,JavaScript ,MVC architecture,MERN,MONGODB,Kotlin and Data Structures and Algorithm 
 
 - 📫 How to reach me **dulmikaushalya02@gmail.com**
 
